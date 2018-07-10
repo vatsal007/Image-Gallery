@@ -1,6 +1,6 @@
 # Image-Gallery
 
-It's an responsive Image Gallery designed entirely using Bootstrap.
+It's a responsive Image Gallery designed entirely using Bootstrap.
 
 Features:
 
